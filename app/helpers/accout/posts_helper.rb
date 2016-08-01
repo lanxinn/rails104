@@ -1,2 +1,0 @@
-module Accout::PostsHelper
-end
